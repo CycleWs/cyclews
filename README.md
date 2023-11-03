@@ -14,6 +14,8 @@
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyclews&theme=github-compact)](https://github.com/cyclews/github-readme-activity-graph)
+
 <div> 
   <a href = "mailto:joaohlspj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-henrique-lima-santiago-pereira-082b4424a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
