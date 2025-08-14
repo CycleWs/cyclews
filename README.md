@@ -30,6 +30,7 @@
   <img align="center" alt="-Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg">
   <img align="center" alt="-Gradle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gradle/gradle-original.svg">
   <img align="center" alt="-IntellijIDEA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg"><br>
+  <img align="center" alt="-Godot Engine" height = "30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original.svg">
 <!--   <img align="center" alt="-Quarkus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg"> -->
 
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
