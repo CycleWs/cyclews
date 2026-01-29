@@ -1,5 +1,5 @@
 ## Hello, Henrique Lima here ✌
-  - 🐱‍👤Bachelor of Computer Science = 8th semester - (Feb 2022 - Dec 2025)
+  - 🐱‍👤Bachelor of Computer Science = 9th semester - (Feb 2022 - Feb 2026)
   - 💻Backend Developer. Specialized in JAVA 
   - 📞Contact me -> joaohlspj@gmail.com 
 
