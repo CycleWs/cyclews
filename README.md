@@ -4,14 +4,16 @@
   - 📞Contact me -> joaohlspj@gmail.com 
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 16px;">
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CycleWs&theme=aura)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 16px;">
   <a href="https://github.com/cyclews/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cyclews&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/cyclews/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyclews&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
-</div>
+</div> -->
 
 ## 🔨Programming Languages, Frameworks and Tools i use:
 
