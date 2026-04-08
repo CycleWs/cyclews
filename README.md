@@ -4,7 +4,7 @@
   - 📞Contact me -> joaohlspj@gmail.com 
 
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CycleWs&theme=aura)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CycleWs&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 
 <!-- <div align="center" style="display: flex; justify-content: center; gap: 16px;">
   <a href="https://github.com/cyclews/github-readme-stats">
