@@ -1,5 +1,6 @@
 ## Hello, Henrique Lima here ✌
   - 🐱‍👤Bachelor of Computer Science = 9th semester - (Feb 2022 - Aug 2026)
+  - 💻Game Developer in GODOT - 3D and 2D
   - 💻Backend Developer. Specialized in JAVA 
   - 📞Contact me -> joaohlspj@gmail.com 
 
